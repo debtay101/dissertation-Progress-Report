@@ -1,0 +1,32 @@
+\begin{thebibliography}{}
+
+\bibitem[Aljamaan et~al., 2014]{AljamaanLBGF14}
+Aljamaan, H.~I., Lethbridge, T.~C., Badreddin, O.~B., Guest, G., and Forward,
+  A. (2014).
+\newblock Specifying trace directives for {UML} attributes and state machines.
+\newblock In {\em {MODELSWARD} 2014 - Proceedings of the 2nd International
+  Conference on Model-Driven Engineering and Software Development, Lisbon,
+  Portugal, 7 - 9 January, 2014}, pages 79--86.
+
+\bibitem[Freivalds, 2011]{freivalds2011biomechanics}
+Freivalds, A. (2011).
+\newblock {\em Biomechanics of the upper limbs: mechanics, modeling and
+  musculoskeletal injuries}.
+\newblock CRC press.
+
+\bibitem[Grigore and Scassellati, 2017]{grigorediscovering}
+Grigore, E.~C. and Scassellati, B. (2017).
+\newblock Discovering action primitive granularity from human motion for
+  human-robot collaboration.
+
+\bibitem[McElrath, 2007]{mcelrath}
+McElrath, R. (2007).
+\newblock Xml legal document utility software design document.
+
+\bibitem[Rosen, 2011]{devol}
+Rosen, R.~J. (2011).
+\newblock Unimate: The story of george devol and the first robotic arm.
+\newblock
+  www.theatlantic.com/technology/archive/2011/08/unimate-the-story-of-george-devol-and-the-first-robotic-arm/243716/.
+
+\end{thebibliography}
