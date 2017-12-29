@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.9.26)  20 DEC 2017 21:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.9.26)  29 DEC 2017 15:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1309,16 +1309,9 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-
-Package scrpage2 Warning: seems you are using a very small headheight.
-(scrpage2)                If you get overfull \vbox warnings at almost every
-(scrpage2)                page, you should increase headheight e.g. writing
-(scrpage2)                 \setlength{\headheight}{1.1\baselineskip}
-(scrpage2)                into the preamble of your document.
-(scrpage2)                A better solution would be to use typearea package.
-
 \AtBeginShipoutBox=\box72
 Package hyperref Info: Link coloring OFF on input line 31.
+
 (c:/texlive/2017/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
@@ -1483,9 +1476,6 @@ Overfull \hbox (0.79999pt too wide) in paragraph at lines 31--24
 {c:/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <20.74> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 31.
-
-Overfull \vbox (3.62498pt too high) has occurred while \output is active []
-
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
@@ -1519,209 +1509,158 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 35.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 35.
-
-Overfull \vbox (3.62498pt too high) has occurred while \output is active []
-
-
-[2]
-Overfull \vbox (3.62498pt too high) has occurred while \output is active []
-
-
-[3]
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 60.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 43.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 12.9599pt on input line 60.
-
-Underfull \hbox (badness 10000) in paragraph at lines 61--62
+(Font)              scaled to size 12.9599pt on input line 43.
+ [2]
+<photos/SSA.jpg, id=108, 597.6729pt x 845.0772pt>
+File: photos/SSA.jpg Graphic file (type jpg)
+<use photos/SSA.jpg>
+Package pdftex.def Info: photos/SSA.jpg  used on input line 78. on input line 7
+8.
+Package pdftex.def Info: Requested size: 418.25873pt x 443.64594pt on input lin
+e 78.
+ [3]
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
 
  []
 
-LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 63.
+[4 <./photos/SSA.jpg>]
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <12> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 65.
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 68.
-(c:/texlive/2017/texmf-dist/tex/latex/psnfss/omsptm.fd
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 90.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 93.
+ (c:/texlive/2017/texmf-dist/tex/latex/psnfss/omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 68.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 93.
 
-Overfull \vbox (3.62498pt too high) has occurred while \output is active []
+Underfull \hbox (badness 10000) in paragraph at lines 97--98
+
+ []
 
 
-[4]
-<photos/UMLdiagram.jpg, id=88, 1074.0125pt x 742.775pt>
-File: photos/UMLdiagram.jpg Graphic file (type jpg)
-<use photos/UMLdiagram.jpg>
-Package pdftex.def Info: photos/UMLdiagram.jpg  used on input line 105. on inpu
-t line 105.
-Package pdftex.def Info: Requested size: 418.25682pt x 354.92987pt on input lin
-e 105.
+Underfull \hbox (badness 10000) in paragraph at lines 106--107
 
-Overfull \vbox (3.62498pt too high) has occurred while \output is active []
+ []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
+
+ []
 
 [5]
-
-LaTeX Warning: File `photos/Use Case_OpenHand.jpg' not found on input line 118.
-
-
-<photos/Use Case_OpenHand.jpg, id=97, 1244.65pt x 1760.5775pt>
-File: photos/Use Case_OpenHand.jpg Graphic file (type jpg)
-<use photos/Use Case_OpenHand.jpg>
-Package pdftex.def Info: photos/Use Case_OpenHand.jpg  used on input line 118. 
-on input line 118.
-Package pdftex.def Info: Requested size: 418.25652pt x 449.54578pt on input lin
-e 118.
-
-Overfull \vbox (3.62498pt too high) has occurred while \output is active []
-
-
-[6 <./photos/UMLdiagram.jpg>]
-Overfull \vbox (3.62498pt too high) has occurred while \output is active []
-
-
-[7 <./photos/Use Case_OpenHand.jpg>]
-<photos/sequence_diagram.jpg, id=111, 1049.9225pt x 436.63126pt>
+<photos/UMLdiagram.jpg, id=130, 1074.0125pt x 742.775pt>
+File: photos/UMLdiagram.jpg Graphic file (type jpg)
+<use photos/UMLdiagram.jpg>
+Package pdftex.def Info: photos/UMLdiagram.jpg  used on input line 140. on inpu
+t line 140.
+Package pdftex.def Info: Requested size: 334.59563pt x 316.47423pt on input lin
+e 140.
+ [6 <./photos/UMLdiagram.jpg>]
+<photos/UseCase_OpenHand.jpg, id=139, 1244.65pt x 1760.5775pt>
+File: photos/UseCase_OpenHand.jpg Graphic file (type jpg)
+<use photos/UseCase_OpenHand.jpg>
+Package pdftex.def Info: photos/UseCase_OpenHand.jpg  used on input line 158. o
+n input line 158.
+Package pdftex.def Info: Requested size: 376.41757pt x 372.06853pt on input lin
+e 158.
+ [7 <./photos/UseCase_OpenHand.jpg>]
+<photos/sequence_diagram.jpg, id=146, 1049.9225pt x 436.63126pt>
 File: photos/sequence_diagram.jpg Graphic file (type jpg)
 <use photos/sequence_diagram.jpg>
-Package pdftex.def Info: photos/sequence_diagram.jpg  used on input line 126. o
-n input line 126.
-Package pdftex.def Info: Requested size: 418.24736pt x 177.46095pt on input lin
-e 126.
+Package pdftex.def Info: photos/sequence_diagram.jpg  used on input line 168. o
+n input line 168.
+Package pdftex.def Info: Requested size: 376.41782pt x 266.18477pt on input lin
+e 168.
 
-Overfull \vbox (3.62498pt too high) has occurred while \output is active []
-
+Overfull \hbox (8.4379pt too wide) in paragraph at lines 171--172
+[]\T1/ptm/m/n/12 Completing this De-sign Doc-u-ment con-firms there is no "off 
+the shelf" skele-tal hand/arm
+ []
 
 [8 <./photos/sequence_diagram.jpg>]
-<photos/hand.jpg, id=122, 541.02126pt x 553.06625pt>
+<photos/hand.jpg, id=158, 541.02126pt x 553.06625pt>
 File: photos/hand.jpg Graphic file (type jpg)
 <use photos/hand.jpg>
-Package pdftex.def Info: photos/hand.jpg  used on input line 139. on input line
- 139.
-Package pdftex.def Info: Requested size: 231.45409pt x 236.60849pt on input lin
-e 139.
-
-
-LaTeX Warning: File `photos/Day 1.jpg' not found on input line 148.
-
-<photos/Day 1.jpg, id=123, 3276.24pt x 1842.885pt>
-File: photos/Day 1.jpg Graphic file (type jpg)
-<use photos/Day 1.jpg>
-Package pdftex.def Info: photos/Day 1.jpg  used on input line 148. on input lin
-e 148.
-Package pdftex.def Info: Requested size: 166.27211pt x 88.72592pt on input line
- 148.
-
-LaTeX Warning: File `photos/Day 10.jpg' not found on input line 150.
-
-<photos/Day 10.jpg, id=125, 3276.24pt x 1842.885pt>
-File: photos/Day 10.jpg Graphic file (type jpg)
-<use photos/Day 10.jpg>
-Package pdftex.def Info: photos/Day 10.jpg  used on input line 150. on input li
-ne 150.
-Package pdftex.def Info: Requested size: 166.27211pt x 88.72592pt on input line
- 150.
-
-Overfull \vbox (3.62498pt too high) has occurred while \output is active []
-
-
-[9 <./photos/hand.jpg>]
-
-LaTeX Warning: File `photos/Day 36-pt1.jpg' not found on input line 158.
-
-<photos/Day 36-pt1.jpg, id=133, 3276.24pt x 1842.885pt>
-File: photos/Day 36-pt1.jpg Graphic file (type jpg)
-<use photos/Day 36-pt1.jpg>
-Package pdftex.def Info: photos/Day 36-pt1.jpg  used on input line 158. on inpu
-t line 158.
-Package pdftex.def Info: Requested size: 166.27211pt x 88.72592pt on input line
- 158.
-
-LaTeX Warning: File `photos/Day 42-pt5.jpg' not found on input line 160.
-
-<photos/Day 42-pt5.jpg, id=135, 3276.24pt x 1842.885pt>
-File: photos/Day 42-pt5.jpg Graphic file (type jpg)
-<use photos/Day 42-pt5.jpg>
-Package pdftex.def Info: photos/Day 42-pt5.jpg  used on input line 160. on inpu
-t line 160.
-Package pdftex.def Info: Requested size: 166.27211pt x 88.72592pt on input line
- 160.
-
-Overfull \vbox (3.62498pt too high) has occurred while \output is active []
-
-
-[10 <./photos/Day 1.jpg> <./photos/Day 10.jpg> <./photos/Day 36-pt1.jpg> <./pho
-tos/Day 42-pt5.jpg>]
-Overfull \vbox (3.62498pt too high) has occurred while \output is active []
-
-
+Package pdftex.def Info: photos/hand.jpg  used on input line 187. on input line
+ 187.
+Package pdftex.def Info: Requested size: 260.38895pt x 266.18681pt on input lin
+e 187.
+<photos/start.jpg, id=159, 3276.24pt x 1842.885pt>
+File: photos/start.jpg Graphic file (type jpg)
+<use photos/start.jpg>
+Package pdftex.def Info: photos/start.jpg  used on input line 200. on input lin
+e 200.
+Package pdftex.def Info: Requested size: 187.04805pt x 165.62775pt on input lin
+e 200.
+<photos/Day10.jpg, id=161, 3276.24pt x 1842.885pt>
+File: photos/Day10.jpg Graphic file (type jpg)
+<use photos/Day10.jpg>
+Package pdftex.def Info: photos/Day10.jpg  used on input line 202. on input lin
+e 202.
+Package pdftex.def Info: Requested size: 187.04805pt x 165.62775pt on input lin
+e 202.
+ [9 <./photos/hand.jpg>]
+<photos/Day36-pt1.jpg, id=169, 3276.24pt x 1842.885pt>
+File: photos/Day36-pt1.jpg Graphic file (type jpg)
+<use photos/Day36-pt1.jpg>
+Package pdftex.def Info: photos/Day36-pt1.jpg  used on input line 210. on input
+ line 210.
+Package pdftex.def Info: Requested size: 287.85857pt x 165.62775pt on input lin
+e 210.
+<photos/Day42-pt5.jpg, id=171, 3276.24pt x 1842.885pt>
+File: photos/Day42-pt5.jpg Graphic file (type jpg)
+<use photos/Day42-pt5.jpg>
+Package pdftex.def Info: photos/Day42-pt5.jpg  used on input line 212. on input
+ line 212.
+Package pdftex.def Info: Requested size: 287.85857pt x 165.62775pt on input lin
+e 212.
+ [10 <./photos/start.jpg> <./photos/Day10.jpg> <./photos/Day36-pt1.jpg> <./phot
+os/Day42-pt5.jpg>]
 [11]
-Overfull \hbox (4.0711pt too wide) in paragraph at lines 180--181
-[]\T1/ptm/m/n/12 If this had not been started early the un-ex-pected de-lay, me
-n-tioned above in the Progress
- []
-
-
-Overfull \hbox (9.3856pt too wide) in paragraph at lines 233--234
+Overfull \hbox (8.93742pt too wide) in paragraph at lines 313--314
  [][] 
  []
 
 
-LaTeX Warning: Float too large for page by 17.09949pt on input line 234.
+LaTeX Warning: Float too large for page by 9.84949pt on input line 314.
 
 
-Overfull \hbox (9.3856pt too wide) in paragraph at lines 280--281
+Overfull \hbox (8.93742pt too wide) in paragraph at lines 360--361
  [][] 
  []
 
 
-LaTeX Warning: Float too large for page by 17.09949pt on input line 281.
+LaTeX Warning: Float too large for page by 9.84949pt on input line 361.
 
-
-Overfull \vbox (3.62498pt too high) has occurred while \output is active []
-
-
-[12]
-Overfull \vbox (3.62498pt too high) has occurred while \output is active []
-
-
-[13]
-Overfull \vbox (3.62498pt too high) has occurred while \output is active []
-
-
-[14] (./progressReport.bbl
+[12] [13] [14] (./progressReport.bbl
 Underfull \hbox (badness 3058) in paragraph at lines 27--31
 []\T1/ptm/m/n/12 Rosen, R. J. (2011).  Uni-mate: The story of george de-vol and
  the first
  []
 
-)
-Overfull \vbox (3.62498pt too high) has occurred while \output is active []
-
-
-[15]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 288.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 288.
+) [15]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 368.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 368.
  (./progressReport.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 288.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 288.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 368.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 368.
 Package rerunfilecheck Info: File `progressReport.out' has not changed.
-(rerunfilecheck)             Checksum: E03747C726286EBA1E1F9F6325CC956A;398.
+(rerunfilecheck)             Checksum: AB2A46D9FB41A5F830F1D942E52DF64C;1203.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 288.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 368.
  ) 
 Here is how much of TeX's memory you used:
- 34017 strings out of 492990
- 687267 string characters out of 6136334
- 868466 words of memory out of 5000000
- 37043 multiletter control sequences out of 15000+600000
- 599351 words of font info for 106 fonts, out of 8000000 for 9000
+ 34041 strings out of 492990
+ 687715 string characters out of 6136334
+ 871911 words of memory out of 5000000
+ 37055 multiletter control sequences out of 15000+600000
+ 597645 words of font info for 105 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  80i,15n,71p,10420b,1065s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2017/texm
@@ -1731,10 +1670,10 @@ imes/utmb8a.pfb><c:/texlive/2017/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb><
 c:/texlive/2017/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2017/te
 xmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2017/texmf-dist/fonts/typ
 e1/urw/times/utmri8a.pfb>
-Output written on progressReport.pdf (16 pages, 6505564 bytes).
+Output written on progressReport.pdf (16 pages, 7257997 bytes).
 PDF statistics:
- 211 PDF objects out of 1000 (max. 8388607)
- 171 compressed objects within 2 object streams
- 46 named destinations out of 1000 (max. 500000)
- 147 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 248 PDF objects out of 1000 (max. 8388607)
+ 206 compressed objects within 3 object streams
+ 54 named destinations out of 1000 (max. 500000)
+ 232 words of extra memory for PDF output out of 10000 (max. 10000000)
 
