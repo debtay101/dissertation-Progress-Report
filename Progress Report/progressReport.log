@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.9.26)  29 DEC 2017 15:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.9.26)  30 DEC 2017 12:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1220,28 +1220,39 @@ Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 Package: underscore 2006/09/13
 LaTeX Info: Redefining \_ on input line 42.
 )
-(./progressReport.aux
+(c:/texlive/2017/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen294
+\WF@size=\dimen295
+\c@WF@wrappedlines=\count334
+\WF@box=\box71
+\WF@everypar=\toks37
+Package: wrapfig 2003/01/31  v 3.6
+)
+(c:/texlive/2017/texmf-dist/tex/latex/lipsum/lipsum.sty
+Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
+\c@lips@count=\count335
+) (./progressReport.aux
 
 LaTeX Warning: Label `pplan' multiply defined.
 
 )
 \openout1 = `progressReport.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Try loading font information for T1+ptm on input line 31.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 34.
  (c:/texlive/2017/texmf-dist/tex/latex/psnfss/t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
@@ -1281,17 +1292,17 @@ File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 
 (c:/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count334
-\scratchdimen=\dimen294
-\scratchbox=\box71
-\nofMPsegments=\count335
-\nofMParguments=\count336
-\everyMPshowfont=\toks37
-\MPscratchCnt=\count337
-\MPscratchDim=\dimen295
-\MPnumerator=\count338
-\makeMPintoPDFobject=\count339
-\everyMPtoPDFconversion=\toks38
+\scratchcounter=\count336
+\scratchdimen=\dimen296
+\scratchbox=\box72
+\nofMPsegments=\count337
+\nofMParguments=\count338
+\everyMPshowfont=\toks38
+\MPscratchCnt=\count339
+\MPscratchDim=\dimen297
+\MPnumerator=\count340
+\makeMPintoPDFobject=\count341
+\everyMPtoPDFconversion=\toks39
 ) (c:/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -1309,8 +1320,8 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-\AtBeginShipoutBox=\box72
-Package hyperref Info: Link coloring OFF on input line 31.
+\AtBeginShipoutBox=\box73
+Package hyperref Info: Link coloring OFF on input line 34.
 
 (c:/texlive/2017/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1318,11 +1329,11 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 (c:/texlive/2017/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count340
+\c@section@level=\count342
 )
-LaTeX Info: Redefining \ref on input line 31.
-LaTeX Info: Redefining \pageref on input line 31.
-LaTeX Info: Redefining \nameref on input line 31.
+LaTeX Info: Redefining \ref on input line 34.
+LaTeX Info: Redefining \pageref on input line 34.
+LaTeX Info: Redefining \nameref on input line 34.
 
 (./progressReport.out) (./progressReport.out)
 \@outlinefile=\write4
@@ -1331,10 +1342,11 @@ LaTeX Info: Redefining \nameref on input line 31.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: rotating package is loaded.
 Package caption Info: threeparttable package is loaded.
+Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
 
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 31.
+LaTeX Info: Redefining \selectfont on input line 34.
 
 (c:/texlive/2017/texmf-dist/tex/latex/beamer/translator/dicts/translator-basic-
 dictionary/translator-basic-dictionary-English.dict
@@ -1381,7 +1393,7 @@ ABD: EveryShipout initializing macros
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 31.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 34.
  (./marksheetprogress.tex
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 1.
@@ -1451,22 +1463,22 @@ Underfull \hbox (badness 3219) in paragraph at lines 16--16
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 31--24
+Underfull \hbox (badness 10000) in paragraph at lines 34--24
 
  []
 
 
-Overfull \hbox (1.59996pt too wide) in paragraph at lines 31--24
+Overfull \hbox (1.59996pt too wide) in paragraph at lines 34--24
 [] 
  []
 
 
-Overfull \hbox (1.19997pt too wide) in paragraph at lines 31--24
+Overfull \hbox (1.19997pt too wide) in paragraph at lines 34--24
 [] 
  []
 
 
-Overfull \hbox (0.79999pt too wide) in paragraph at lines 31--24
+Overfull \hbox (0.79999pt too wide) in paragraph at lines 34--24
 [] 
  []
 
@@ -1475,194 +1487,246 @@ Overfull \hbox (0.79999pt too wide) in paragraph at lines 31--24
 
 {c:/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <20.74> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 31.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 34.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.31 \begin {document}
+l.34 \begin {document}
                        [1
 
 
 
 ]
-\c__siunitx_mathsf_int=\count341
-\c__siunitx_mathtt_int=\count342
-LaTeX Font Info:    Try loading font information for T1+phv on input line 34.
+\c__siunitx_mathsf_int=\count343
+\c__siunitx_mathtt_int=\count344
+LaTeX Font Info:    Try loading font information for T1+phv on input line 37.
 
 (c:/texlive/2017/texmf-dist/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
 )
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 10.79993pt on input line 34.
+(Font)              scaled to size 10.79993pt on input line 37.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 34.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 37.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 10.79993pt on input line 34.
+(Font)              scaled to size 10.79993pt on input line 37.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <17.28> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 34.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 37.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 15.55188pt on input line 34.
+(Font)              scaled to size 15.55188pt on input line 37.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 35.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 38.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 35.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 38.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 35.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 38.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 43.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 46.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 12.9599pt on input line 43.
+(Font)              scaled to size 12.9599pt on input line 46.
  [2]
-<photos/SSA.jpg, id=108, 597.6729pt x 845.0772pt>
+<photos/SSA.jpg, id=114, 597.6729pt x 845.0772pt>
 File: photos/SSA.jpg Graphic file (type jpg)
 <use photos/SSA.jpg>
-Package pdftex.def Info: photos/SSA.jpg  used on input line 78. on input line 7
-8.
+Package pdftex.def Info: photos/SSA.jpg  used on input line 81. on input line 8
+1.
 Package pdftex.def Info: Requested size: 418.25873pt x 443.64594pt on input lin
-e 78.
+e 81.
  [3]
-Underfull \hbox (badness 10000) in paragraph at lines 86--87
+Underfull \hbox (badness 10000) in paragraph at lines 89--90
 
  []
 
 [4 <./photos/SSA.jpg>]
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <12> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 90.
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 93.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 93.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 96.
  (c:/texlive/2017/texmf-dist/tex/latex/psnfss/omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 93.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 96.
 
-Underfull \hbox (badness 10000) in paragraph at lines 97--98
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 106--107
+Underfull \hbox (badness 10000) in paragraph at lines 100--101
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 114--115
+Underfull \hbox (badness 10000) in paragraph at lines 109--110
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
 
  []
 
 [5]
-<photos/UMLdiagram.jpg, id=130, 1074.0125pt x 742.775pt>
+<photos/UMLdiagram.jpg, id=140, 1074.0125pt x 742.775pt>
 File: photos/UMLdiagram.jpg Graphic file (type jpg)
 <use photos/UMLdiagram.jpg>
-Package pdftex.def Info: photos/UMLdiagram.jpg  used on input line 140. on inpu
-t line 140.
+Package pdftex.def Info: photos/UMLdiagram.jpg  used on input line 143. on inpu
+t line 143.
 Package pdftex.def Info: Requested size: 334.59563pt x 316.47423pt on input lin
-e 140.
+e 143.
  [6 <./photos/UMLdiagram.jpg>]
-<photos/UseCase_OpenHand.jpg, id=139, 1244.65pt x 1760.5775pt>
+<photos/UseCase_OpenHand.jpg, id=149, 1244.65pt x 1760.5775pt>
 File: photos/UseCase_OpenHand.jpg Graphic file (type jpg)
 <use photos/UseCase_OpenHand.jpg>
-Package pdftex.def Info: photos/UseCase_OpenHand.jpg  used on input line 158. o
-n input line 158.
+Package pdftex.def Info: photos/UseCase_OpenHand.jpg  used on input line 161. o
+n input line 161.
 Package pdftex.def Info: Requested size: 376.41757pt x 372.06853pt on input lin
-e 158.
+e 161.
  [7 <./photos/UseCase_OpenHand.jpg>]
-<photos/sequence_diagram.jpg, id=146, 1049.9225pt x 436.63126pt>
+<photos/sequence_diagram.jpg, id=156, 1049.9225pt x 436.63126pt>
 File: photos/sequence_diagram.jpg Graphic file (type jpg)
 <use photos/sequence_diagram.jpg>
-Package pdftex.def Info: photos/sequence_diagram.jpg  used on input line 168. o
-n input line 168.
-Package pdftex.def Info: Requested size: 376.41782pt x 266.18477pt on input lin
-e 168.
+Package pdftex.def Info: photos/sequence_diagram.jpg  used on input line 171. o
+n input line 171.
+Package pdftex.def Info: Requested size: 418.24736pt x 354.92192pt on input lin
+e 171.
 
-Overfull \hbox (8.4379pt too wide) in paragraph at lines 171--172
+Overfull \hbox (8.4379pt too wide) in paragraph at lines 174--175
 []\T1/ptm/m/n/12 Completing this De-sign Doc-u-ment con-firms there is no "off 
 the shelf" skele-tal hand/arm
  []
 
-[8 <./photos/sequence_diagram.jpg>]
-<photos/hand.jpg, id=158, 541.02126pt x 553.06625pt>
+<photos/hand.jpg, id=159, 541.02126pt x 553.06625pt>
 File: photos/hand.jpg Graphic file (type jpg)
 <use photos/hand.jpg>
-Package pdftex.def Info: photos/hand.jpg  used on input line 187. on input line
- 187.
-Package pdftex.def Info: Requested size: 260.38895pt x 266.18681pt on input lin
-e 187.
-<photos/start.jpg, id=159, 3276.24pt x 1842.885pt>
+Package pdftex.def Info: photos/hand.jpg  used on input line 183. on input line
+ 183.
+Package pdftex.def Info: Requested size: 292.77632pt x 299.30113pt on input lin
+e 183.
+[8 <./photos/sequence_diagram.jpg>]
+Overfull \hbox (0.89732pt too wide) in paragraph at lines 187--188
+[][]\T1/ptm/m/n/12 This iden-ti-fies ex-actly
+ []
+
+
+Overfull \hbox (2.00139pt too wide) in paragraph at lines 187--188
+\T1/ptm/m/n/12 which metal shapes need
+ []
+
+
+Underfull \hbox (badness 7558) in paragraph at lines 187--188
+\T1/ptm/m/n/12 to be cut and how
+ []
+
+
+Underfull \hbox (badness 1132) in paragraph at lines 189--190
+[]\T1/ptm/m/n/12 A friend (who is a
+ []
+
+
+Underfull \hbox (badness 1681) in paragraph at lines 191--192
+\T1/ptm/m/n/12 unit etc) are ob-tained
+ []
+
+
+Overfull \hbox (4.48521pt too wide) in paragraph at lines 191--192
+\T1/ptm/m/n/12 sep-a-rately "off the shelf",
+ []
+
+
+Underfull \hbox (badness 7344) in paragraph at lines 193--194
+\T1/ptm/m/n/12 de-cided to keep the
+ []
+
+<photos/start.jpg, id=168, 3276.24pt x 1842.885pt>
 File: photos/start.jpg Graphic file (type jpg)
 <use photos/start.jpg>
-Package pdftex.def Info: photos/start.jpg  used on input line 200. on input lin
-e 200.
-Package pdftex.def Info: Requested size: 187.04805pt x 165.62775pt on input lin
-e 200.
-<photos/Day10.jpg, id=161, 3276.24pt x 1842.885pt>
+Package pdftex.def Info: photos/start.jpg  used on input line 204. on input lin
+e 204.
+Package pdftex.def Info: Requested size: 193.717pt x 171.5398pt on input line 2
+04.
+
+Overfull \hbox (4.24086pt too wide) in paragraph at lines 204--205
+[][] 
+ []
+
+<photos/Day10.jpg, id=170, 3276.24pt x 1842.885pt>
 File: photos/Day10.jpg Graphic file (type jpg)
 <use photos/Day10.jpg>
-Package pdftex.def Info: photos/Day10.jpg  used on input line 202. on input lin
-e 202.
-Package pdftex.def Info: Requested size: 187.04805pt x 165.62775pt on input lin
-e 202.
- [9 <./photos/hand.jpg>]
-<photos/Day36-pt1.jpg, id=169, 3276.24pt x 1842.885pt>
+Package pdftex.def Info: photos/Day10.jpg  used on input line 209. on input lin
+e 209.
+Package pdftex.def Info: Requested size: 193.717pt x 171.5398pt on input line 2
+09.
+
+Overfull \hbox (4.24086pt too wide) in paragraph at lines 209--210
+[][] 
+ []
+
+<photos/Day36-pt1.jpg, id=172, 3276.24pt x 1842.885pt>
 File: photos/Day36-pt1.jpg Graphic file (type jpg)
 <use photos/Day36-pt1.jpg>
-Package pdftex.def Info: photos/Day36-pt1.jpg  used on input line 210. on input
- line 210.
-Package pdftex.def Info: Requested size: 287.85857pt x 165.62775pt on input lin
-e 210.
-<photos/Day42-pt5.jpg, id=171, 3276.24pt x 1842.885pt>
+Package pdftex.def Info: photos/Day36-pt1.jpg  used on input line 214. on input
+ line 214.
+Package pdftex.def Info: Requested size: 193.717pt x 171.5398pt on input line 2
+14.
+
+Overfull \hbox (4.24086pt too wide) in paragraph at lines 214--215
+[][] 
+ []
+
+<photos/Day42-pt5.jpg, id=174, 3276.24pt x 1842.885pt>
 File: photos/Day42-pt5.jpg Graphic file (type jpg)
 <use photos/Day42-pt5.jpg>
-Package pdftex.def Info: photos/Day42-pt5.jpg  used on input line 212. on input
- line 212.
-Package pdftex.def Info: Requested size: 287.85857pt x 165.62775pt on input lin
-e 212.
- [10 <./photos/start.jpg> <./photos/Day10.jpg> <./photos/Day36-pt1.jpg> <./phot
-os/Day42-pt5.jpg>]
-[11]
-Overfull \hbox (8.93742pt too wide) in paragraph at lines 313--314
+Package pdftex.def Info: photos/Day42-pt5.jpg  used on input line 219. on input
+ line 219.
+Package pdftex.def Info: Requested size: 193.717pt x 171.5398pt on input line 2
+19.
+
+Overfull \hbox (4.24086pt too wide) in paragraph at lines 219--220
+[][] 
+ []
+
+[9 <./photos/hand.jpg>] [10 <./photos/start.jpg> <./photos/Day10.jpg> <./photos
+/Day36-pt1.jpg> <./photos/Day42-pt5.jpg>] [11]
+Overfull \hbox (8.93742pt too wide) in paragraph at lines 317--318
  [][] 
  []
 
 
-LaTeX Warning: Float too large for page by 9.84949pt on input line 314.
+LaTeX Warning: Float too large for page by 9.84949pt on input line 318.
 
 
-Overfull \hbox (8.93742pt too wide) in paragraph at lines 360--361
+Overfull \hbox (8.93742pt too wide) in paragraph at lines 364--365
  [][] 
  []
 
 
-LaTeX Warning: Float too large for page by 9.84949pt on input line 361.
+LaTeX Warning: Float too large for page by 9.84949pt on input line 365.
 
 [12] [13] [14] (./progressReport.bbl
-Underfull \hbox (badness 3058) in paragraph at lines 27--31
+Underfull \hbox (badness 3058) in paragraph at lines 40--44
 []\T1/ptm/m/n/12 Rosen, R. J. (2011).  Uni-mate: The story of george de-vol and
  the first
  []
 
 ) [15]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 368.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 368.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 372.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 372.
  (./progressReport.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 368.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 368.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 372.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 372.
 Package rerunfilecheck Info: File `progressReport.out' has not changed.
-(rerunfilecheck)             Checksum: AB2A46D9FB41A5F830F1D942E52DF64C;1203.
+(rerunfilecheck)             Checksum: 66C51C927E049FBBFF9D65B98482E280;1202.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 368.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 372.
  ) 
 Here is how much of TeX's memory you used:
- 34041 strings out of 492990
- 687715 string characters out of 6136334
- 871911 words of memory out of 5000000
- 37055 multiletter control sequences out of 15000+600000
- 597645 words of font info for 105 fonts, out of 8000000 for 9000
+ 34315 strings out of 492990
+ 691340 string characters out of 6136334
+ 973062 words of memory out of 5000000
+ 37317 multiletter control sequences out of 15000+600000
+ 600367 words of font info for 107 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 80i,15n,71p,10420b,1065s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 80i,11n,71p,10420b,1065s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2017/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2017/texmf-dist/fo
 nts/type1/urw/helvetic/uhvb8a.pfb><c:/texlive/2017/texmf-dist/fonts/type1/urw/t
@@ -1670,10 +1734,10 @@ imes/utmb8a.pfb><c:/texlive/2017/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb><
 c:/texlive/2017/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2017/te
 xmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2017/texmf-dist/fonts/typ
 e1/urw/times/utmri8a.pfb>
-Output written on progressReport.pdf (16 pages, 7257997 bytes).
+Output written on progressReport.pdf (16 pages, 7260020 bytes).
 PDF statistics:
- 248 PDF objects out of 1000 (max. 8388607)
- 206 compressed objects within 3 object streams
- 54 named destinations out of 1000 (max. 500000)
+ 258 PDF objects out of 1000 (max. 8388607)
+ 216 compressed objects within 3 object streams
+ 57 named destinations out of 1000 (max. 500000)
  232 words of extra memory for PDF output out of 10000 (max. 10000000)
 

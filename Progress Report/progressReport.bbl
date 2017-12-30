@@ -8,6 +8,11 @@ Aljamaan, H.~I., Lethbridge, T.~C., Badreddin, O.~B., Guest, G., and Forward,
   Conference on Model-Driven Engineering and Software Development, Lisbon,
   Portugal, 7 - 9 January, 2014}, pages 79--86.
 
+\bibitem[Benditkis and Safro, 2006]{DBLP:journals/corr/abs-cs-0612070}
+Benditkis, S. and Safro, I. (2006).
+\newblock Generalizations of the hanoi towers problem.
+\newblock {\em CoRR}, abs/cs/0612070.
+
 \bibitem[Freivalds, 2011]{freivalds2011biomechanics}
 Freivalds, A. (2011).
 \newblock {\em Biomechanics of the upper limbs: mechanics, modeling and
@@ -18,6 +23,14 @@ Freivalds, A. (2011).
 Grigore, E.~C. and Scassellati, B. (2017).
 \newblock Discovering action primitive granularity from human motion for
   human-robot collaboration.
+
+\bibitem[Ito et~al., 2016]{DBLP:conf/case/ItoSYI16}
+Ito, K., Sueishi, T., Yamakawa, Y., and Ishikawa, M. (2016).
+\newblock Tracking and recognition of a human hand in dynamic motion for janken
+  (rock-paper-scissors) robot.
+\newblock In {\em {IEEE} International Conference on Automation Science and
+  Engineering, {CASE} 2016, Fort Worth, TX, USA, August 21-25, 2016}, pages
+  891--896.
 
 \bibitem[McElrath, 2007]{mcelrath}
 McElrath, R. (2007).
